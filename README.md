@@ -1,0 +1,1 @@
+# cordova-plugin-chrome-apps-storage
